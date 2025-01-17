@@ -39,30 +39,6 @@ This project is a complete stopwatch application built with React.js as part of 
 - **Tailwind CSS**: For styling.
 - **Custom Hooks**: For stopwatch logic and theme management.
 
-## Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/stopwatch-application.git
-   ```
-
-2. Navigate to the project directory:
-   ```bash
-   cd stopwatch-application
-   ```
-
-3. Install dependencies:
-   ```bash
-   npm install
-   ```
-
-4. Start the development server:
-   ```bash
-   npm start
-   ```
-
-5. Open your browser and visit `http://localhost:3000` to see the application in action.
-
 ## Usage
 - Use the Start, Stop, Reset, and Lap buttons to control each stopwatch.
 - Add up to 5 stopwatches using the "Add Stopwatch" button.
@@ -71,13 +47,6 @@ This project is a complete stopwatch application built with React.js as part of 
 ## Live Preview
 Check out the live preview here: [Stopwatch Application](https://stopwatch-two-phi.vercel.app/)
 
-## Screenshots
-Include screenshots or GIFs demonstrating the features.
-
-## License
-This project is licensed under the MIT License. See the LICENSE file for details.
-
----
 
 ### Acknowledgment
 This project was created as part of Task 02 for the web development internship at Prodigy Info Tech.
