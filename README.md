@@ -68,6 +68,9 @@ This project is a complete stopwatch application built with React.js as part of 
 - Add up to 5 stopwatches using the "Add Stopwatch" button.
 - Switch between light and dark themes using the theme toggle button.
 
+## Live Preview
+Check out the live preview here: [Stopwatch Application](https://stopwatch-two-phi.vercel.app/)
+
 ## Screenshots
 Include screenshots or GIFs demonstrating the features.
 
